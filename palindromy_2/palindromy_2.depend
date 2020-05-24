@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590362643 source:d:\users\wojtek\programowanie\palindromy_2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<algorithm>
+

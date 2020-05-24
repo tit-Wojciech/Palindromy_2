@@ -1,0 +1,2 @@
+Parzystych palindromow jest: 9
+Nie parzysstych palindromów jest: 33
